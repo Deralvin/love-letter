@@ -60,7 +60,7 @@ export const letterContent: LetterConfig = {
     "Hey, I just read your letter... and honestly, I miss you so much ❤️",
 
   envelopeHint:
-    "There's a little message written just for you. Tap the seal to open it...",
+    "There's a little message written just for you. Tap the seal to open it....",
 
   letterTitle: "For You, the Home of All My Longing",
   letterSubtitle: "Written slowly, somewhere between missing you and praying for you",
